@@ -7,7 +7,7 @@
         "Lần học": "1",
         "Lần thi": "1",
         "Điểm thứ": "1",
-        "Là điểm tổng kết môn": "0",
+        "Là điểm tổng kết môn": "1",
         "Đánh giá": "DAT",
         "Mã sinh viên": "73DCHT22230",
         "Chuyên cần": "10",
@@ -17,7 +17,7 @@
         "Thảo luận": "",
         "Tổng kết HP": "6.4",
         "Điểm chữ": "C+",
-        "dbKey": "1_73DCHT22230_DC2HT13"
+        "dbKey": "73DCHT22230_DC2HT13"
     },
     {
         "STT": "2",
@@ -37,7 +37,7 @@
         "Thảo luận": "",
         "Tổng kết HP": "4.9",
         "Điểm chữ": "D",
-        "dbKey": "2_73DCHT22230_DC1CB11"
+        "dbKey": "73DCHT22230_DC1CB11"
     },
     {
         "STT": "3",
@@ -57,7 +57,7 @@
         "Thảo luận": "0.0",
         "Tổng kết HP": "0.0",
         "Điểm chữ": "F",
-        "dbKey": "3_73DCHT22230_DC1LL06"
+        "dbKey": "73DCHT22230_DC1LL06"
     },
     {
         "STT": "4",
@@ -77,7 +77,7 @@
         "Thảo luận": "",
         "Tổng kết HP": "7.0",
         "Điểm chữ": "B",
-        "dbKey": "4_73DCHT22230_DC1QP08"
+        "dbKey": "73DCHT22230_DC1QP08"
     },
     {
         "STT": "5",
@@ -97,7 +97,7 @@
         "Thảo luận": "",
         "Tổng kết HP": "2.7|6.3",
         "Điểm chữ": "F|C+",
-        "dbKey": "5_73DCHT22230_DC2HT42"
+        "dbKey": "73DCHT22230_DC2HT42"
     },
     {
         "STT": "6",
@@ -117,7 +117,7 @@
         "Thảo luận": "",
         "Tổng kết HP": "7.0",
         "Điểm chữ": "B",
-        "dbKey": "6_73DCHT22230_DC2TT35"
+        "dbKey": "73DCHT22230_DC2TT35"
     },
     {
         "STT": "7",
@@ -137,7 +137,7 @@
         "Thảo luận": "",
         "Tổng kết HP": "6.2",
         "Điểm chữ": "C+",
-        "dbKey": "7_73DCHT22230_DC1TT44"
+        "dbKey": "73DCHT22230_DC1TT44"
     },
     {
         "STT": "8",
@@ -157,7 +157,7 @@
         "Thảo luận": "",
         "Tổng kết HP": "4.6",
         "Điểm chữ": "D",
-        "dbKey": "8_73DCHT22230_DC1TT21"
+        "dbKey": "73DCHT22230_DC1TT21"
     },
     {
         "STT": "9",
@@ -167,7 +167,7 @@
         "Lần học": "1",
         "Lần thi": "1",
         "Điểm thứ": "1",
-        "Là điểm tổng kết môn": "0",
+        "Là điểm tổng kết môn": "1",
         "Đánh giá": "DAT",
         "Mã sinh viên": "73DCHT22230",
         "Chuyên cần": "10",
@@ -177,7 +177,7 @@
         "Thảo luận": "",
         "Tổng kết HP": "7.6",
         "Điểm chữ": "B",
-        "dbKey": "9_73DCHT22230_DC1QP06"
+        "dbKey": "73DCHT22230_DC1QP06"
     },
     {
         "STT": "10",
@@ -197,10 +197,30 @@
         "Thảo luận": "",
         "Tổng kết HP": "7.9",
         "Điểm chữ": "B",
-        "dbKey": "10_73DCHT22230_DC1TT31"
+        "dbKey": "73DCHT22230_DC1TT31"
     },
     {
         "STT": "11",
+        "Mã học phần": "DC2TT24",
+        "Tên học phần": "Thương mại điện tử",
+        "Số TC": "3",
+        "Lần học": "1",
+        "Lần thi": "1",
+        "Điểm thứ": "1",
+        "Là điểm tổng kết môn": "1",
+        "Đánh giá": "DAT",
+        "Mã sinh viên": "73DCHT22230",
+        "Chuyên cần": "7.0",
+        "Kiểm tra GK": "5.0",
+        "Thực hành": "",
+        "Thi Kết thúc": "5.0",
+        "Thảo luận": "",
+        "Tổng kết HP": "5.2",
+        "Điểm chữ": "D+",
+        "dbKey": "73DCHT22230_DC2TT24"
+    },
+    {
+        "STT": "12",
         "Mã học phần": "DC1QP07",
         "Tên học phần": "Quân sự chung",
         "Số TC": "2",
@@ -217,10 +237,10 @@
         "Thảo luận": "",
         "Tổng kết HP": "7.6",
         "Điểm chữ": "B",
-        "dbKey": "11_73DCHT22230_DC1QP07"
+        "dbKey": "73DCHT22230_DC1QP07"
     },
     {
-        "STT": "12",
+        "STT": "13",
         "Mã học phần": "DC3HT51",
         "Tên học phần": "An toàn và bảo mật hệ thống thông tin",
         "Số TC": "2",
@@ -237,10 +257,10 @@
         "Thảo luận": "",
         "Tổng kết HP": "3.1|4.9",
         "Điểm chữ": "F|D",
-        "dbKey": "12_73DCHT22230_DC3HT51"
+        "dbKey": "73DCHT22230_DC3HT51"
     },
     {
-        "STT": "13",
+        "STT": "14",
         "Mã học phần": "DC2TT22",
         "Tên học phần": "Nhập môn Cơ sở dữ liệu",
         "Số TC": "3",
@@ -257,10 +277,10 @@
         "Thảo luận": "",
         "Tổng kết HP": "0.0",
         "Điểm chữ": "F",
-        "dbKey": "13_73DCHT22230_DC2TT22"
+        "dbKey": "73DCHT22230_DC2TT22"
     },
     {
-        "STT": "14",
+        "STT": "15",
         "Mã học phần": "DC2TT31",
         "Tên học phần": "Phần mềm mã nguồn mở",
         "Số TC": "2",
@@ -277,17 +297,17 @@
         "Thảo luận": "",
         "Tổng kết HP": "3.5",
         "Điểm chữ": "F",
-        "dbKey": "14_73DCHT22230_DC2TT31"
+        "dbKey": "73DCHT22230_DC2TT31"
     },
     {
-        "STT": "15",
+        "STT": "16",
         "Mã học phần": "DC2HT12",
         "Tên học phần": "Nguyên lý Hệ điều hành",
         "Số TC": "3",
         "Lần học": "1",
         "Lần thi": "1",
         "Điểm thứ": "1",
-        "Là điểm tổng kết môn": "1",
+        "Là điểm tổng kết môn": "0",
         "Đánh giá": "DAT",
         "Mã sinh viên": "73DCHT22230",
         "Chuyên cần": "10",
@@ -297,10 +317,10 @@
         "Thảo luận": "",
         "Tổng kết HP": "6.7",
         "Điểm chữ": "C+",
-        "dbKey": "15_73DCHT22230_DC2HT12"
+        "dbKey": "73DCHT22230_DC2HT12"
     },
     {
-        "STT": "16",
+        "STT": "17",
         "Mã học phần": "DC1LL05",
         "Tên học phần": "Pháp luật Việt Nam đại cương",
         "Số TC": "2",
@@ -317,10 +337,10 @@
         "Thảo luận": "",
         "Tổng kết HP": "5.8",
         "Điểm chữ": "C",
-        "dbKey": "16_73DCHT22230_DC1LL05"
+        "dbKey": "73DCHT22230_DC1LL05"
     },
     {
-        "STT": "17",
+        "STT": "18",
         "Mã học phần": "DC1LL07",
         "Tên học phần": "Kinh tế chính trị Mác - Lênin",
         "Số TC": "2",
@@ -337,10 +357,10 @@
         "Thảo luận": "",
         "Tổng kết HP": "5.7",
         "Điểm chữ": "C",
-        "dbKey": "17_73DCHT22230_DC1LL07"
+        "dbKey": "73DCHT22230_DC1LL07"
     },
     {
-        "STT": "18",
+        "STT": "19",
         "Mã học phần": "DC1CB98",
         "Tên học phần": "Làm việc nhóm và kỹ năng giao tiếp",
         "Số TC": "2",
@@ -357,17 +377,17 @@
         "Thảo luận": "",
         "Tổng kết HP": "7.0",
         "Điểm chữ": "B",
-        "dbKey": "18_73DCHT22230_DC1CB98"
+        "dbKey": "73DCHT22230_DC1CB98"
     },
     {
-        "STT": "19",
+        "STT": "20",
         "Mã học phần": "DC1TD32",
         "Tên học phần": "Cầu lông",
         "Số TC": "2",
         "Lần học": "1",
         "Lần thi": "1",
         "Điểm thứ": "1",
-        "Là điểm tổng kết môn": "1",
+        "Là điểm tổng kết môn": "0",
         "Đánh giá": "DAT",
         "Mã sinh viên": "73DCHT22230",
         "Chuyên cần": "10",
@@ -377,10 +397,10 @@
         "Thảo luận": "",
         "Tổng kết HP": "6.7",
         "Điểm chữ": "C+",
-        "dbKey": "19_73DCHT22230_DC1TD32"
+        "dbKey": "73DCHT22230_DC1TD32"
     },
     {
-        "STT": "20",
+        "STT": "21",
         "Mã học phần": "DC1TT77",
         "Tên học phần": "Kỹ năng mềm",
         "Số TC": "3",
@@ -397,10 +417,10 @@
         "Thảo luận": "",
         "Tổng kết HP": "7.5",
         "Điểm chữ": "B",
-        "dbKey": "20_73DCHT22230_DC1TT77"
+        "dbKey": "73DCHT22230_DC1TT77"
     },
     {
-        "STT": "21",
+        "STT": "22",
         "Mã học phần": "DC1CB35",
         "Tên học phần": "Tiếng Anh",
         "Số TC": "3",
@@ -408,19 +428,19 @@
         "Lần thi": "1",
         "Điểm thứ": "1",
         "Là điểm tổng kết môn": "0",
-        "Đánh giá": "",
+        "Đánh giá": "DAT",
         "Mã sinh viên": "73DCHT22230",
         "Chuyên cần": "7.0",
         "Kiểm tra GK": "6.5",
         "Thực hành": "",
-        "Thi Kết thúc": "",
+        "Thi Kết thúc": "6.5",
         "Thảo luận": "",
-        "Tổng kết HP": "",
-        "Điểm chữ": "",
-        "dbKey": "21_73DCHT22230_DC1CB35"
+        "Tổng kết HP": "6.6",
+        "Điểm chữ": "C+",
+        "dbKey": "73DCHT22230_DC1CB35"
     },
     {
-        "STT": "22",
+        "STT": "23",
         "Mã học phần": "DC1CB41",
         "Tên học phần": "Toán 2",
         "Số TC": "2",
@@ -437,10 +457,10 @@
         "Thảo luận": "",
         "Tổng kết HP": "2.3|2.0",
         "Điểm chữ": "F|F",
-        "dbKey": "22_73DCHT22230_DC1CB41"
+        "dbKey": "73DCHT22230_DC1CB41"
     },
     {
-        "STT": "23",
+        "STT": "24",
         "Mã học phần": "DC1LL08",
         "Tên học phần": "Chủ nghĩa xã hội khoa học",
         "Số TC": "2",
@@ -457,17 +477,17 @@
         "Thảo luận": "",
         "Tổng kết HP": "5.4",
         "Điểm chữ": "D+",
-        "dbKey": "23_73DCHT22230_DC1LL08"
+        "dbKey": "73DCHT22230_DC1LL08"
     },
     {
-        "STT": "24",
+        "STT": "25",
         "Mã học phần": "DC1LL09",
         "Tên học phần": "Lịch sử Đảng cộng sản Việt Nam",
         "Số TC": "2",
         "Lần học": "1",
         "Lần thi": "1",
         "Điểm thứ": "1",
-        "Là điểm tổng kết môn": "0",
+        "Là điểm tổng kết môn": "1",
         "Đánh giá": "DAT",
         "Mã sinh viên": "73DCHT22230",
         "Chuyên cần": "6.0",
@@ -477,10 +497,10 @@
         "Thảo luận": "",
         "Tổng kết HP": "4.2",
         "Điểm chữ": "D",
-        "dbKey": "24_73DCHT22230_DC1LL09"
+        "dbKey": "73DCHT22230_DC1LL09"
     },
     {
-        "STT": "25",
+        "STT": "26",
         "Mã học phần": "DC2TT32",
         "Tên học phần": "Điện toán đám mây",
         "Số TC": "2",
@@ -488,19 +508,19 @@
         "Lần thi": "1",
         "Điểm thứ": "1",
         "Là điểm tổng kết môn": "0",
-        "Đánh giá": "",
+        "Đánh giá": "DAT",
         "Mã sinh viên": "73DCHT22230",
         "Chuyên cần": "9.0",
         "Kiểm tra GK": "9.5",
         "Thực hành": "",
-        "Thi Kết thúc": "",
+        "Thi Kết thúc": "8.5",
         "Thảo luận": "",
-        "Tổng kết HP": "",
-        "Điểm chữ": "",
-        "dbKey": "25_73DCHT22230_DC2TT32"
+        "Tổng kết HP": "8.9",
+        "Điểm chữ": "A",
+        "dbKey": "73DCHT22230_DC2TT32"
     },
     {
-        "STT": "26",
+        "STT": "27",
         "Mã học phần": "DC1LL03",
         "Tên học phần": "Tư tưởng Hồ Chí Minh",
         "Số TC": "2",
@@ -517,10 +537,10 @@
         "Thảo luận": "",
         "Tổng kết HP": "4.5",
         "Điểm chữ": "D",
-        "dbKey": "26_73DCHT22230_DC1LL03"
+        "dbKey": "73DCHT22230_DC1LL03"
     },
     {
-        "STT": "27",
+        "STT": "28",
         "Mã học phần": "DC1TT22",
         "Tên học phần": "Vật lý đại cương 2",
         "Số TC": "2",
@@ -537,10 +557,10 @@
         "Thảo luận": "",
         "Tổng kết HP": "3.9|5.4",
         "Điểm chữ": "F|D+",
-        "dbKey": "27_73DCHT22230_DC1TT22"
+        "dbKey": "73DCHT22230_DC1TT22"
     },
     {
-        "STT": "28",
+        "STT": "29",
         "Mã học phần": "DC1QP05",
         "Tên học phần": "Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam",
         "Số TC": "3",
@@ -557,10 +577,10 @@
         "Thảo luận": "",
         "Tổng kết HP": "7.0",
         "Điểm chữ": "B",
-        "dbKey": "28_73DCHT22230_DC1QP05"
+        "dbKey": "73DCHT22230_DC1QP05"
     },
     {
-        "STT": "29",
+        "STT": "30",
         "Mã học phần": "DC2TT23",
         "Tên học phần": "Ngôn ngữ lập trình C",
         "Số TC": "3",
@@ -577,17 +597,17 @@
         "Thảo luận": "",
         "Tổng kết HP": "3.9|6.0",
         "Điểm chữ": "F|C+",
-        "dbKey": "29_73DCHT22230_DC2TT23"
+        "dbKey": "73DCHT22230_DC2TT23"
     },
     {
-        "STT": "30",
+        "STT": "31",
         "Mã học phần": "DC1TD21",
         "Tên học phần": "Điền kinh",
         "Số TC": "2",
         "Lần học": "1",
         "Lần thi": "1",
         "Điểm thứ": "1",
-        "Là điểm tổng kết môn": "1",
+        "Là điểm tổng kết môn": "0",
         "Đánh giá": "DAT",
         "Mã sinh viên": "73DCHT22230",
         "Chuyên cần": "10",
@@ -597,10 +617,10 @@
         "Thảo luận": "",
         "Tổng kết HP": "6.1",
         "Điểm chữ": "C+",
-        "dbKey": "30_73DCHT22230_DC1TD21"
+        "dbKey": "73DCHT22230_DC1TD21"
     },
     {
-        "STT": "31",
+        "STT": "32",
         "Mã học phần": "DC2TT11",
         "Tên học phần": "Kiến trúc máy tính",
         "Số TC": "3",
@@ -608,19 +628,19 @@
         "Lần thi": "1",
         "Điểm thứ": "1",
         "Là điểm tổng kết môn": "0",
-        "Đánh giá": "",
+        "Đánh giá": "DAT",
         "Mã sinh viên": "73DCHT22230",
         "Chuyên cần": "8.0",
         "Kiểm tra GK": "7.0",
         "Thực hành": "",
-        "Thi Kết thúc": "",
+        "Thi Kết thúc": "4.0",
         "Thảo luận": "",
-        "Tổng kết HP": "",
-        "Điểm chữ": "",
-        "dbKey": "31_73DCHT22230_DC2TT11"
+        "Tổng kết HP": "5.3",
+        "Điểm chữ": "D+",
+        "dbKey": "73DCHT22230_DC2TT11"
     },
     {
         "STT": "",
-        "dbKey": "32_73DCHT22230_"
+        "dbKey": "73DCHT22230_"
     }
 ]

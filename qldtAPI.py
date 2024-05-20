@@ -141,11 +141,10 @@ class qldtAPI:
 
     def preprocessJson(self,key_field,username):
         self.cleaned_data = []
-        id = 0
         for item in self.data:
-            id = id+1
+
             keyField = item.get(key_field, "")
-            dbKey = f"{id}_{username}_{keyField}"
+            dbKey = f"{username}_{keyField}"
             
             # Kiểm tra xem idPHSV có giá trị không và loại bỏ các mục có idPHSV rỗng
             if dbKey:
